@@ -7,6 +7,6 @@
 
 During the Summer of 2018, I had the amazing opportunity of participating in the Summer Research Institute (SRI) at STU, where we learned about Data Science and some of the techniques used to help visualize big data, including Principal Component Analysis and K-means Clustering. Additionally, we learned about some of the linear algebra and matrix calculus involved behind Data Science.
 
-My project consisted of exploring the question of whether music had evolved or showed any signs of specific trends during the last 60 years. To begin, we chose to use songs from the Billboard Top 10 summer hits from the years 1958-2017, and similarly, songs from Grammy award winners during 1959-2018. These songs were then stored into separate playlists grouped by year within the music platform, Spotify. Comparison of songs was measured using audio features, which were extracted utilizing the spotifyr package (through the Spotify Web API) in the programming language, R. 
+Use the double arrow pointing to the right to view my poster.
 
 ![Alt](poster_Vega_North.pdf)
