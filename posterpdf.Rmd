@@ -1,0 +1,11 @@
+---
+title: "Data Science Research Poster"
+author: "Acxel Vega"
+
+header-includes:
+  - \usepackage{xcolor}
+  
+output: pdf_document
+---
+
+[Data Science Research Poster](https://acxelvega.rstudio.cloud/0ca18f5e39ea4763b54b461b0171970b/file_show?path=%2Fcloud%2Fproject%2Fposter_Vega_North.pdf)

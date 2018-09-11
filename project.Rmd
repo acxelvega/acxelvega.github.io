@@ -7,6 +7,4 @@
 
 During the Summer of 2018, I had the amazing opportunity of participating in the Summer Research Institute (SRI) at [St. Thomas University](https://www.stu.edu), where we learned about Data Science and some of the techniques used to help visualize big data, including Principal Component Analysis and K-means Clustering. Additionally, we learned about some of the linear algebra and matrix calculus involved behind Data Science.
 
-Use the double arrow pointing to the right to view my poster.
-
-![Alt](poster_Vega_North.pdf)
+[Data Science Research Poster](https://acxelvega.rstudio.cloud/0ca18f5e39ea4763b54b461b0171970b/file_show?path=%2Fcloud%2Fproject%2Fposter_Vega_North.pdf)
